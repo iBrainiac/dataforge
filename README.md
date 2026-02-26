@@ -1,12 +1,12 @@
-# 🧠 DATAFORGE: A Synthetic Data Subnet on Bittensor
+# 🧠 DataForge: A Synthetic Data Subnet on Bittensor
 
 ## Overview
 
-Synapse is a proposed subnet in the Bittensor ecosystem dedicated exclusively to high-quality, domain-specific synthetic data generation.
+DataForge is a proposed subnet in the Bittensor ecosystem dedicated exclusively to high-quality, domain-specific synthetic data generation.
 
 While compute and inference subnets already exist within Bittensor, there is currently no subnet whose primary output is structured, benchmark-validated synthetic training data arguably the most scarce and valuable resource in modern AI systems.
 
-Synapse fills this gap.
+DataFOrge fills this gap.
 
 Our thesis is simple:
 
